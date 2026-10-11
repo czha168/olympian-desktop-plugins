@@ -13,7 +13,7 @@
       "id": "io.github.liushunqiu.pi-idea-git",
       "name": "IDEA-GIT",
       "description": "方便推送代码到git仓库",
-      "author": "",
+      "author": "liushunqiu",
       "i18n": {
         "en": {
           "name": "IDEA-GIT",
@@ -219,7 +219,7 @@
       "id": "pi.theme.studio",
       "name": "Theme Studio",
       "description": "PI-Desktop theme studio: 5 built-in palettes, visual editing of all 56 --ds-* tokens and 7 background regions (window, sidebar, chat, dock, titlebar, thread, composer) with fills, gradients, local PNG images, blur and radius. The preview is a faithful replica of the real window, contrast is checked live (WCAG 2.1), and image backgrounds are referenced by absolute path so saving never reloads the plugin. Also ships four Agent tools, so a theme can be created from a sentence.",
-      "author": "",
+      "author": "Tioit-Wang",
       "i18n": {
         "en": {
           "name": "Theme Studio",
@@ -343,7 +343,7 @@
       "id": "local.pi-commandcode-desktop",
       "name": "pi-commandcode-desktop",
       "description": "帮你在pi-desktop上面使用commandcodego的订阅，喜欢的可以给我的github点个星星吗",
-      "author": "",
+      "author": "Unknown",
       "i18n": {
         "en": {
           "name": "CommandCode Subscription Bridge",
@@ -445,7 +445,7 @@
       "id": "pi.file-manager",
       "name": "File Manager",
       "description": "Browse, view and edit the open project in the right work panel: a full directory tree with per-file-type icons, syntax-highlighted editing, a Markdown preview, image and media viewing, CSV/JSON structured views, read-only SQLite browsing with a SQL query box, a context menu for creating and renaming, and filename search.",
-      "author": "",
+      "author": "Tioit-Wang",
       "i18n": {
         "en": {
           "name": "File Manager",
@@ -1020,7 +1020,7 @@
       "id": "pi.scratch-calc",
       "name": "Scratch Calculator",
       "description": "A paper-like multi-line calculator: evaluate as you type, keep a draft history, add notes to each line, copy results or export the sheet as an image, with local draft management and dark mode.",
-      "author": "",
+      "author": "Tioit-Wang",
       "i18n": {
         "en": {
           "name": "Scratch Calculator",
@@ -1295,7 +1295,7 @@
       "id": "axc00.project-knowledge",
       "name": "Project Knowledge",
       "description": "A per-project knowledge base for PI-Desktop. Relevant knowhow and specs are attached to each message automatically, the Agent can search and load entries, and new lessons are saved only after you confirm them on an in-chat card. Optional Jev dedup, off by default.",
-      "author": "",
+      "author": "AXC00",
       "i18n": {
         "en": {
           "name": "Project Knowledge",
@@ -1737,7 +1737,7 @@
       "id": "pi.thinkrail",
       "name": "ThinkRail",
       "description": "ThinkRail for PI-Desktop: a spec-graph the agent can read, query and maintain (7 spec_* tools), 10 workflow skills (including the authoring checklist for the family), and a panel with a specs browser.",
-      "author": "",
+      "author": "andrewliu83",
       "i18n": {
         "en": {
           "name": "ThinkRail",
@@ -1962,7 +1962,7 @@
       "id": "io.github.jeasonloop.theme-craftdesk",
       "name": "pi-theme-craftdesk",
       "description": "一款mc风格的pi-desktop主题",
-      "author": "",
+      "author": "JeasonLoop",
       "i18n": {
         "en": {
           "name": "CraftDesk Theme",
@@ -2186,7 +2186,7 @@
       "id": "pi.theme.opencode",
       "name": "OpenCode Theme",
       "description": "Pixel-perfect port of the official OpenCode palette (anomalyco/opencode): #9d7cd8 violet headings, #7fd88f mint code, #f5a742 amber highlights, and monospace typography.",
-      "author": "",
+      "author": "hzz12138",
       "i18n": {
         "en": {
           "name": "OpenCode Theme",
@@ -2547,7 +2547,7 @@
       "id": "local.pi-desktop-workbuddy",
       "name": "pi-desktop-workbuddy",
       "description": "帮你在pi-desktop中使用workbuddy的免费积分，喜欢的可以给我的github点个星星吗",
-      "author": "",
+      "author": "Unknown",
       "i18n": {
         "en": {
           "name": "WorkBuddy Credits Bridge",
@@ -2594,7 +2594,7 @@
       "id": "pi.clipboard-history",
       "name": "Clipboard History",
       "description": "Capture clipboard text while PI-Desktop runs, keep 30 days of history, restore any entry with one click.",
-      "author": "",
+      "author": "Tioit-Wang",
       "i18n": {
         "en": {
           "name": "Clipboard History",
@@ -2643,7 +2643,7 @@
       "id": "pi.clinepass",
       "name": "Cline Pass For Pi Desktop",
       "description": "非常便宜的Cline Pass接入Pi-Desktop",
-      "author": "",
+      "author": "Unknown",
       "i18n": {
         "en": {
           "name": "Cline Pass For Pi Desktop",
@@ -2936,7 +2936,7 @@
       "id": "adoin.panel.anywhere",
       "name": "Anywhere Panel",
       "description": "Connect Pi Desktop to Agents Anywhere and access workspace conversations from mobile or web. Discover existing sessions, create chats, send messages, sync text replies and task status, and interrupt running tasks. Includes password-encrypted connection storage and tabs for status, connection management and events. Workspace sharing requires explicit local consent.",
-      "author": "",
+      "author": "Unknown",
       "i18n": {
         "en": {
           "name": "Anywhere Panel",
@@ -3285,7 +3285,7 @@
       "id": "com.opencode2pi",
       "name": "OpenCode Free Models",
       "description": "A very simple tool to apply free models from OpenCode to pi-desktop; availability is not guaranteed.",
-      "author": "",
+      "author": "JasonYu0822",
       "i18n": {
         "en": {
           "name": "OpenCode Free Models",
@@ -3338,7 +3338,7 @@
       "id": "pi.super-domain-man",
       "name": "Super Domain Man",
       "description": "A local-first DNS and SSL workspace for Alibaba Cloud, Tencent Cloud, Cloudflare, AWS Route53, Volcano Engine and Huawei Cloud. Credentials stay on this device.",
-      "author": "",
+      "author": "Tioit-Wang",
       "i18n": {
         "en": {
           "name": "Super Domain Man",
@@ -3391,7 +3391,7 @@
       "id": "pi.prompt-enhancement",
       "name": "Prompt Enhancement",
       "description": "Rewrite the current Composer draft as a clearer prompt when you choose to run it.",
-      "author": "",
+      "author": "vastsa",
       "i18n": {
         "en": {
           "name": "Prompt Enhancement",
@@ -3449,7 +3449,7 @@
       "id": "adoin.sax-design-theme",
       "name": "Sax-design Animation theme",
       "description": "",
-      "author": "",
+      "author": "Unknown",
       "i18n": {
         "en": {
           "name": "Sax-design Animation theme",
@@ -3613,7 +3613,7 @@
       "id": "io.github.tonkic.agent-governance",
       "name": "Agent Governance",
       "description": "Repository handoff, project boards, source-backed architecture and Git collaboration with isolated worktrees and commit-bound verification.",
-      "author": "",
+      "author": "Tonkic",
       "i18n": {
         "en": {
           "name": "Agent Governance",
@@ -3688,7 +3688,7 @@
       "id": "pi.todo",
       "name": "Todo List",
       "description": "The official PI-Desktop todo list with list and four-quadrant layouts, due dates, native reminders and a todo_manage agent tool for querying, adding, splitting, completing and rescheduling tasks.",
-      "author": "",
+      "author": "Tioit-Wang",
       "i18n": {
         "en": {
           "name": "Todo List",
@@ -3805,7 +3805,7 @@
       "id": "in.memcode.memory",
       "name": "Memcode Memory",
       "description": "Give PI-Desktop agents explicit tools to save, search, and retrieve the signed-in user's Memcode memories.",
-      "author": "",
+      "author": "Unknown",
       "i18n": {
         "en": {
           "name": "Memcode Memory",
